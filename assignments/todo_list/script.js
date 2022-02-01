@@ -16,3 +16,5 @@ removeP.addEventListener('click',rem);
 function rem(e){
     removeP.removeChild(e.target);
 }
+
+
